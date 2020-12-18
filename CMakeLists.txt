@@ -29,9 +29,9 @@ find_package(Qt${QT_VERSION_MAJOR} COMPONENTS Widgets REQUIRED)
 
 set(PROJECT_SOURCES
         resources.qrc
-        main.cpp
-        mainwindow.cpp
-        mainwindow.hpp
+        src/Aroma/Main.cpp
+        src/Aroma/MainWindow.cpp
+        include/Aroma/MainWindow.hpp
 )
 
 if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
@@ -51,3 +51,4 @@ else()
 endif()
 
 target_link_libraries(Aroma PRIVATE Qt${QT_VERSION_MAJOR}::Widgets)
+target_include_directories(Aroma PUBLIC include)

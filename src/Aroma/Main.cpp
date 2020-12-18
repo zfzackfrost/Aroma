@@ -1,4 +1,4 @@
-#include "mainwindow.hpp"
+#include <Aroma/MainWindow.hpp>
 
 #include <QApplication>
 
