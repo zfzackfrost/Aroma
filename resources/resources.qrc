@@ -9,5 +9,8 @@
     <file>icons/info-circle-solid.png</file>
     <file>icons/ruler-combined-solid.png</file>
     <file>icons/times-solid.png</file>
+    <!-- ~~~~~~~~~~~~~~~~~~~~~ Styles ~~~~~~~~~~~~~~~~~~~~~ -->
+    <file>styles/App.qss</file>
+
 </qresource>
 </RCC>
