@@ -1,0 +1,13 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <!-- ~~~~~~~~~~~~~~~~~~~~~ Icons ~~~~~~~~~~~~~~~~~~~~~ -->
+    <file>icons/arrows-alt-h-solid.png</file>
+    <file>icons/arrows-alt-v-solid.png</file>
+    <file>icons/lightbulb-solid.png</file>
+    <file>icons/cog-solid.png</file>
+    <file>icons/folder-open-solid.png</file>
+    <file>icons/info-circle-solid.png</file>
+    <file>icons/ruler-combined-solid.png</file>
+    <file>icons/times-solid.png</file>
+</qresource>
+</RCC>
