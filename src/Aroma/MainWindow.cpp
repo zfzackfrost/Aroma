@@ -13,7 +13,7 @@ MainWindow::MainWindow(QWidget *parent)
     initStatusBar();
     initWidgets();
 
-    setWindowTitle(tr("SPICE-Bench"));
+    setWindowTitle(tr("Aroma"));
     setWindowState(Qt::WindowState::WindowMaximized);
 }
 
